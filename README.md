@@ -1,2 +1,2 @@
-# COMP7005_A1
+# SimpleTCPFileTransfer
 A program is designed so that the Server is initially on listen mode on default port 7005. Given that a Client knows the IP or domain name of the Server with default or specified port, a Client will be able to send connect request to the Server. The Server is simply designed so that it can accept any Client with no restrictions. Server will respond to a Client’s commands: GET and SEND.
